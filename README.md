@@ -10,6 +10,8 @@
 
 > Após a derrota de Link, uma tela de inserção de nome surge, permitindo que os jogadores registrem seus nomes. Ao clicar em 'Enviar', o nome do jogador e sua pontuação são armazenados em um banco de dados relacional.
 
+## 📷 Imagens do jogo
+![image](https://github.com/luizfelipesoarees/Zelda-Low-Code/assets/141787273/37f3abf9-6fa5-49d0-ba9f-00f5230054ed)
 
 
 
