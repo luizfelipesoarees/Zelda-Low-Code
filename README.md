@@ -1,5 +1,8 @@
 # The Legend of Zelda: Low-Code 🏹
 
+## 🌐 Teste o jogo
+> https://zelda-low-code.netlify.app/
+
 ## 📜 Sobre o projeto 
 > Um emocionante jogo inspirado no clássico 'The Legend of Zelda: A Link to the Past' foi desenvolvido usando a plataforma Construct 3. Nele, os jogadores embarcam em uma aventura, enfrentando inimigos e desafios.
 
