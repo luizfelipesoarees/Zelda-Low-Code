@@ -12,6 +12,10 @@
 
 ## 📷 Imagens do jogo
 ![image](https://github.com/luizfelipesoarees/Zelda-Low-Code/assets/141787273/37f3abf9-6fa5-49d0-ba9f-00f5230054ed)
+![image](https://github.com/luizfelipesoarees/Zelda-Low-Code/assets/141787273/52129f1d-1468-4646-b179-fbd619f25b52)
+![image](https://github.com/luizfelipesoarees/Zelda-Low-Code/assets/141787273/bb864d47-e491-4d1e-97a8-a8f88e02a7c6)
+
+
 
 
 
