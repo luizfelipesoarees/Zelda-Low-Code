@@ -21,5 +21,5 @@ https://drive.google.com/file/d/1E6u-yH3Qxa8LFCgmuTuZC0wZiqub4tJO/view?usp=drive
 ![image](https://github.com/luizfelipesoarees/Zelda-Low-Code/assets/141787273/bb864d47-e491-4d1e-97a8-a8f88e02a7c6)
 
 ## 🛢️ Banco de dados
-> O banco de dados foi hospedado no site 000webhost e é possível administrá-lo pelo phpMyAdmin. No mesmo, é possível encontrar uma tabela chamada score, contendo a id (auto increment), o nome do jogador e sua pontuação final.<br />
+> O banco de dados foi hospedado no site 000webhost e é possível administrá-lo pelo phpMyAdmin. No mesmo, é possível encontrar uma tabela chamada score, contendo a id (auto increment), o nome do jogador e sua pontuação final.</br>
 ![image](https://github.com/luizfelipesoarees/Zelda-Low-Code/assets/141787273/78129094-aa91-4aa4-8392-a930b7e8ecaf)
